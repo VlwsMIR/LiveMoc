@@ -1,8 +1,8 @@
 {
     "models": [
-        ["Rice", "Mao", "Hiyori", "Haru"],
-        ["Natori", "Mark"],
-        ["Wanko"]
+        [
+            "dujiaoshou_6"
+        ]
     ],
     "messages": [
         "这是女性分组",
